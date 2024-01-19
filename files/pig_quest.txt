@@ -1,0 +1,2 @@
+[688301052033761282]: 2024-01-18 21:47:08.052239, author: jarver, situation: 1, roll result: 5
+[688301052033761282]: 2024-01-18 21:47:25.621981, author: jarver, roll result: 7, lost coins: 27, situation: 2. #TO REMOVE FROM PLAYER

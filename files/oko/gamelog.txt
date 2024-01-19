@@ -1,0 +1,88 @@
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:27.375711 Kastner vs jarver (688301052033761282), Bid: 30, Initiative roll: <kastner:7>,<player: 4>
+
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:35.956153, jarver is drawing and has 2 dices
+
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:36.557268: Kastner is drawing and he has 2 dices
+
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:38.356287, jarver is drawing and has 3 dices
+
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:39.331429, Kastner rolls with result: [8, 4]
+
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:43.786345, jarver rolls with result: [7, 6, 7]
+
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:44.896555, Kastner rolls with result: [1, 7]
+
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:46.051657, jarver rolls with result: [6, 2, 8]
+
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:51.214899, jarver is winning against Kastner with the roll result: [9, 6, 4]
+
+[905f98d8-b028-424c-849a-f7b88375feb0] 2024-01-18 19:31:51.369323, Kastner rolls with result: [3, 4]
+
+[8df24003-1ec0-4d7f-83c0-f516776e937e] 2024-01-18 19:36:50.382268 Kastner vs jarver (688301052033761282), Bid: 30, Initiative roll: <kastner:3>,<player: 2>
+
+[8df24003-1ec0-4d7f-83c0-f516776e937e] 2024-01-18 19:36:56.839543, jarver is drawing and has 2 dices
+
+[8df24003-1ec0-4d7f-83c0-f516776e937e] 2024-01-18 19:36:57.913870: Kastner is drawing and he has 2 dices
+
+[8df24003-1ec0-4d7f-83c0-f516776e937e] 2024-01-18 19:36:58.617058, jarver is drawing and has 3 dices
+
+[8df24003-1ec0-4d7f-83c0-f516776e937e] 2024-01-18 19:36:59.507668, Kastner is winning with the roll result: [9, 7]
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:37:43.636594 Kastner vs jarver (688301052033761282), Bid: 30, Initiative roll: <kastner:5>,<player: 3>
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:37:51.133603, jarver is drawing and has 2 dices
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:37:51.974181: Kastner is drawing and he has 2 dices
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:37:53.006773, jarver is drawing and has 3 dices
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:37:53.590352: Kastner is drawing and he has 3 dices
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:37:57.953845, jarver rolls with result: [7, 1, 5]
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:37:58.960509, Kastner rolls with result: [4, 4, 6]
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:37:59.231421, jarver rolls with result: [3, 1, 3]
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:38:00.625749, jarver rolls with result: [1, 8, 2]
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:38:00.889521, Kastner rolls with result: [6, 3, 10]
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:38:01.956677, Kastner rolls with result: [4, 7, 5]
+
+[9ef1b1d8-d422-499c-acc9-76fc9fdbf46c] 2024-01-18 19:38:02.706487, jarver is winning against Kastner with the roll result: [10, 9, 5]
+
+[912f7a49-5182-4e58-aab8-e74549cca9d8] 2024-01-18 21:01:43.199840 Kastner vs jarver (688301052033761282), Bid: 5, Initiative roll: <hubert:3>,<player: 7>
+
+[912f7a49-5182-4e58-aab8-e74549cca9d8] 2024-01-18 21:01:44.278636, Hubert rolls with result: [5]
+
+[912f7a49-5182-4e58-aab8-e74549cca9d8] 2024-01-18 21:03:36.884902, jarver is drawing and has 2 dices
+
+[912f7a49-5182-4e58-aab8-e74549cca9d8] 2024-01-18 21:03:37.911474, Hubert rolls with result: [4]
+
+[912f7a49-5182-4e58-aab8-e74549cca9d8] 2024-01-18 21:03:48.307660, jarver is drawing and has 3 dices
+
+[912f7a49-5182-4e58-aab8-e74549cca9d8] 2024-01-18 21:03:49.572841, Hubert rolls with result: [10]
+
+[912f7a49-5182-4e58-aab8-e74549cca9d8] 2024-01-18 21:03:52.753398, jarver is winning against Hubert with the roll result: [7, 2, 9]
+
+[ec8b2284-df29-4da1-9a61-1878101466cf] 2024-01-18 21:04:31.430639 Kastner vs jarver (688301052033761282), Bid: 30, Initiative roll: <kastner:6>,<player: 8>
+
+[ec8b2284-df29-4da1-9a61-1878101466cf] 2024-01-18 21:04:32.306944: Kastner is drawing and he has 2 dices
+
+[811aa1d9-e6f9-45df-aeb4-4ab469d663c8] 2024-01-18 21:36:08.633745 Kastner vs solveig_26 (456718571599560715), Bid: 20, Initiative roll: <kastner:9>,<player: 4>
+
+[811aa1d9-e6f9-45df-aeb4-4ab469d663c8] 2024-01-18 21:37:24.389906, solveig_26 is drawing and has 2 dices
+
+[811aa1d9-e6f9-45df-aeb4-4ab469d663c8] 2024-01-18 21:37:25.085926: Kastner is drawing and he has 2 dices
+
+[811aa1d9-e6f9-45df-aeb4-4ab469d663c8] 2024-01-18 21:37:40.445856, solveig_26 is drawing and has 3 dices
+
+[811aa1d9-e6f9-45df-aeb4-4ab469d663c8] 2024-01-18 21:37:41.343294: Kastner is drawing and he has 3 dices
+
+[811aa1d9-e6f9-45df-aeb4-4ab469d663c8] 2024-01-18 21:38:11.279700, solveig_26 is drawing and has 4 dices
+
+[811aa1d9-e6f9-45df-aeb4-4ab469d663c8] 2024-01-18 21:38:12.337853, Kastner rolls with result: [10, 7, 2]
+
+[811aa1d9-e6f9-45df-aeb4-4ab469d663c8] 2024-01-18 21:38:31.963703, solveig_26 is winning against Kastner with the roll result: [4, 10, 9, 8]
+
